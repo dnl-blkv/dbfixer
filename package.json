@@ -1,0 +1,31 @@
+{
+  "name": "dbfixer",
+  "version": "0.0.1",
+  "description": "NASA Space Apps Challenge MongoDB sticker and fixer",
+  "main": "main.js",
+  "dependencies": {
+    "mongodb": "^2.0.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "alert('Hello NASA');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnl-blkv/dbfixer.git"
+  },
+  "keywords": [
+    "nasa",
+    "space",
+    "apps",
+    "challenge",
+    "mongodb",
+    "json"
+  ],
+  "author": "Daniil Belyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnl-blkv/dbfixer/issues"
+  },
+  "homepage": "https://github.com/dnl-blkv/dbfixer"
+}
