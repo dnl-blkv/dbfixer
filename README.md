@@ -1,2 +1,1 @@
-TEST README DATA
-LICENSE ISC
+The prepared_data.7z archive contents the data prepared by the script.
